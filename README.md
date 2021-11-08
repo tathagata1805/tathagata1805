@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tathagata Chakraborty</h1>
-<h3 align="center">B.Tech (ECE)@ UEMK | Frontend Developer | Passionate Web Developer | Coder | Open-Source Contributor | DSC Community Member@ UEMK</h3>
+<h3 align="center">B.Tech (ECE)@ UEMK | Frontend Developer | Budding Software Developer | Open-Source Contributor | DSC Community Member@ UEMK | Core Member@ Ureckon, UEMK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tathagata1805&label=Profile%20views&color=0e75b6&style=flat" alt="tathagata1805" /> </p>
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **tathagata1805@gmail.com**
 - Checkout my Portfolio at **https://tathagata1805.github.io/**
 
-- ⚡ Fun fact **I used to hate coding six months ago!**
+- ⚡ Fun fact **I used to hate coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
