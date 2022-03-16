@@ -8,8 +8,8 @@
 - 💬 Ask me about **A Passionate Frontend Developer skilled with frontend technologies. A budding Competitive Coder (5*@ HackerRank), and a B.Tech undergrad @ UEMK**
 
 - 📫 How to reach me **tathagata1805@gmail.com**
-- Checkout the first version of my Portfolio at **https://tathagata1805.github.io/**
-- Checkout my latest Portfolio at **https://tathagata1805.vercel.app/**
+- Checkout the first version of my Portfolio (using React JS) at **https://tathagata1805.github.io/**
+- Checkout my latest Portfolio (using Next JS) at **https://tathagata1805.vercel.app/**
 
 - ⚡ Fun fact **I used to hate coding!**
 
