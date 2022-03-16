@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tathagata1805@gmail.com**
 - Checkout the first version of my Portfolio (using React JS) at **https://tathagata1805.github.io/**
-- Checkout my latest Portfolio (using Next JS) at **https://tathagata1805.vercel.app/**
+- Checkout my latest Portfolio (using Next JS) at **https://dev-tathagata.vercel.app/**
 
 - ⚡ Fun fact **I used to hate coding!**
 
