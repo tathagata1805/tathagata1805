@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tathagata1805" alt="tathagata1805" /></a> </p>
 
-- 💬 Ask me about **A Passionate Frontend Developer skilled with frontend technologies. A budding Competitive Coder (5*@ HackerRank), and a B.Tech undergrad @ UEMK**
+- 💬 Ask me about **Frontend development, JavaScript, React JS, Node JS, Software Engineering**
 
 - 📫 How to reach me **tathagata1805@gmail.com**
-- Checkout the first version of my Portfolio (using React JS) at **https://tathagata1805.github.io/**
+- Checkout my Portfolio-v1 (using React JS) at **https://tathagata1805.github.io/**
 - Checkout my Portfolio (using Next JS) at **https://dev-tathagata.vercel.app/**
 
 - ⚡ Fun fact **I used to hate coding!**
